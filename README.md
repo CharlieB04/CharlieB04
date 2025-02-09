@@ -16,7 +16,7 @@ Carlos</a></h1>
 
 - 🐍 Basic - Intermediate knowledge of Django Framework.
 
-- 🍎 Some experience
+- 🍎 Some experience with Objective-C, Swift, SwiftUI, and UIKit.
 
 - 📚 Here is a simple portfolio for showing my Frontend skills (Javascript + React) <a href="https://my-portfolio-git-main-charlieb04.vercel.app">My portfolio</a>
 
